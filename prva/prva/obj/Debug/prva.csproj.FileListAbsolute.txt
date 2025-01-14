@@ -1,0 +1,7 @@
+C:\joko\prva\prva\bin\Debug\prva.exe.config
+C:\joko\prva\prva\bin\Debug\prva.exe
+C:\joko\prva\prva\bin\Debug\prva.pdb
+C:\joko\prva\prva\obj\Debug\prva.csproj.AssemblyReference.cache
+C:\joko\prva\prva\obj\Debug\prva.csproj.CoreCompileInputs.cache
+C:\joko\prva\prva\obj\Debug\prva.exe
+C:\joko\prva\prva\obj\Debug\prva.pdb
